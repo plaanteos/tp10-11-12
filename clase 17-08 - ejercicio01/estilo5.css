@@ -1,0 +1,17 @@
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+    background-color: rgb(210, 156, 89);
+
+}
+header{
+    background-color: aquamarine;
+    color: blue;
+}
+h1{
+    font-family: 'Roboto Condensed', sans-serif;
+    text-align: center;
+}
+footer{
+    background-color: cadetblue;
+    color: rgb(29, 8, 167);
+}
